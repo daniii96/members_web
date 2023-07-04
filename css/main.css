@@ -51,7 +51,7 @@ section nav.other a:nth-child(4) { background-color: #a794fd; box-shadow: 5px 5p
 /* 밑에 css 내용을 따로 만들어서 main.css에 import시켜줘도 됨 */
 /* member1 */
 body.member1 { background-color: #ebfaff; }
-body.member1 section article.profile img { box-shadow: 5px 15px 30px rgba(173,216,230,.8); }
+body.member1 section article.profile img { box-shadow: 5px 15px 30px rgba(230, 182, 173, 0.8); }
 body.member1 section a.btnView { background: linear-gradient(45deg, #4affff, #35e0f7); box-shadow: 5px 10px 20px rgba(0,255,255,.493); }
 
 /* member2 */
