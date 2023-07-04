@@ -1,0 +1,3 @@
+body.member4 { background-color: #f5f0ff; }
+body.member4 section article.profile img { box-shadow: 5px 15px 30px rgba(183,82,250,.2); }
+body.member4 section a.btnView { background: linear-gradient(45deg, #8e74ff, #a011ff); box-shadow: 5px 10px 20px rgba(160,17,255,.4); }
